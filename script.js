@@ -2,11 +2,11 @@
 // Skriv din pseudokod innanför nedanstående kommentarsblock
 /*
 
-SET summa = INPUT från användare
+SET summa = INPUT (Ange summa)
 
-SET antalVänner = INPUT från användare
+SET antalVänner = INPUT (Ange antal vänner)
 
-SET dricks = INPUT med instruktioner om att omvandla till decimalform, t ex 10% blir 0.1
+SET dricks = INPUT (Omvandla till decimalform, t ex 10% blir 0.1)
 
 SET totalSumma = summa + (summa * dricks)
 
